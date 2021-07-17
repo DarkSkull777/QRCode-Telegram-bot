@@ -5,7 +5,7 @@
 # Thank you https://github.com/pyrogram/pyrogram :-)
 
 class Msg:
-    source = "\nsource:https://github.com/AbhijithNT/QRCode-Telegram-bot"
-    start = "\n<b>This is a QR code generator bot by @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @thankappan369"
-    help = "You can encode and decode QRCode\nUsage: <b>Send any URL or text, this bot can convert to QRCode.\nYou can send a QR code image and decode it.</b>"
+    source = "\ntekan /help untuk mengetahui caranya"
+    start = "\n<b>Ini adalah bot mengetahui/membuat kode QR oleh @xskull7</b>"
+    error = "ada yang salah\n{error} \ncontact admin @xskull7"
+    help = "\nKamu bisa membuat ataupun mengetahui qr code\nPenggunaan: <b>Kirim Gambar QR code atau teks apa pun yang ingin saya jadikan QR Code\n bot ini dapat mengonversi ke QRCode.\nAnda dapat mengirim gambar kode QR dan memecahkan kodenya.</b>"
